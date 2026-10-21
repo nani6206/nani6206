@@ -88,7 +88,8 @@ I regularly work on technical exercises, projects, and learning activities to st
 ## 📫 Connect With Me
 
 - **LinkedIn:** [Nagarjuna Maganti](https://linkedin.com/in/maganti-nagarjuna-207ab940a/)
-- **GitHub:** [nani6206](https://github.com/nani6206)
+- **GitHub:** [Nagarjuna Maganti](https://github.com/nani6206)
+- **Portfolio:** [Nagarjuna Maganti](https://nagarjunamaganti.lovable.app/)
 
 ---
 
